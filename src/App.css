@@ -21,6 +21,11 @@ footer{
   box-sizing: border-box;
 }
 
+.developer_link{
+  font-weight: bold;
+  color: inherit;
+}
+
 .page_rights_text{
   text-align: center;
   color: black;

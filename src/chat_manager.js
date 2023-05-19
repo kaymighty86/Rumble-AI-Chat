@@ -150,7 +150,7 @@ class chat_manager extends Component{
 
             //SENDING TO CHAT-GPT
             const promiseForChatRequest  = new Promise((resolve, reject) => {
-                const OPEN_API_KEY = "";//INSERT KEY (NOTE!!: don't leave communication with Open AI public like this. Rather handle communication with OpenAI from a backend)
+                const OPEN_API_KEY = "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";//INSERT KEY (NOTE!!: its not good to leave API key in public like this. its best done from the backend)
 
                 const chatRequest = new XMLHttpRequest();
 
