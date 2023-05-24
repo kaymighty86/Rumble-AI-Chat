@@ -9,7 +9,7 @@ function App() {
         <ChatManager/>
       </section>
       <footer>
-        <p className='page_rights_text'>© Copyright 2023 <a class="developer_link" href="./">Simeon Olukayode Adeoye (Kay)</a> - All Rights Reserved</p>
+        <p className='page_rights_text'>© Copyright 2023 <a class="developer_link" href="https://orioncenturo.com/kays-portfolio-website">Simeon Olukayode Adeoye (Kay)</a> - All Rights Reserved</p>
       </footer>
     </div>
   );
